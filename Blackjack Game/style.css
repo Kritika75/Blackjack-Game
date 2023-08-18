@@ -1,0 +1,50 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("360_F_362053188_oQ0WRHCFkIY4QlXS1S5d1i9bpYup67ll.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+#start-btn {
+    color: #016f32;
+    width: 150px;
+    /* height: 40px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: goldenrod;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+
+#card-btn {
+    color: #016f32;
+    width: 150px;
+    /* height: 40px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: goldenrod;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    
+}
